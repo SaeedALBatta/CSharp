@@ -1,0 +1,14 @@
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\bin\Debug\net8.0\C#Tasks_Methods_Section_1.exe
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\bin\Debug\net8.0\C#Tasks_Methods_Section_1.deps.json
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\bin\Debug\net8.0\C#Tasks_Methods_Section_1.runtimeconfig.json
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\bin\Debug\net8.0\C#Tasks_Methods_Section_1.dll
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\bin\Debug\net8.0\C#Tasks_Methods_Section_1.pdb
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.AssemblyInfoInputs.cache
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.AssemblyInfo.cs
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.csproj.CoreCompileInputs.cache
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.dll
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\refint\C#Tasks_Methods_Section_1.dll
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.pdb
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\C#Tasks_Methods_Section_1.genruntimeconfig.cache
+C:\My_project\C#\C#Tasks_Methods_Section\C#Tasks_Methods_Section\obj\Debug\net8.0\ref\C#Tasks_Methods_Section_1.dll
